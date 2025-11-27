@@ -1,1 +1,1 @@
-# File-Compressor-Decompressor
+# This project is a file compressor and decompressor written in Python, designed to reduce file size and restore it back to the original form. It reads input files, builds frequency tables, generates encoded representations, and writes out compressed data using an efficient format. The decompressor reverses this process by reconstructing the encoding and restoring the exact original file. The program includes error checking, handles different file types, and focuses on reliable compression, correctness, and clean modular code.
